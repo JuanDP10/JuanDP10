@@ -1,3 +1,11 @@
+
+<br clear="both">
+
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 <h2>About me😃</h2>
 
 <p align="left">
@@ -16,11 +24,3 @@
 </p>
 <br>
 
-###
-
-<br clear="both">
-
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
