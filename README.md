@@ -1,7 +1,7 @@
 <h2 ></h2>
 <br>	
 <div aling="center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71831&width=435&lines=%3EHi+%F0%9F%91%8B!+My+name+is+Juan+Diego;and+I'm+a+beginner+developer%F0%9F%92%BB.;I'm+Software+Analysis+and+Development+Technologist." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71831&width=450&lines=%3EHi+%F0%9F%91%8B!+My+name+is+Juan+Diego;and+I'm+a+beginner+developer%F0%9F%92%BB.;I'm+Software+Analysis+and+Development+Technologist." alt="Typing SVG" /></a>
 </div>
 
 <h2 ></h2>
