@@ -15,7 +15,7 @@
 <p align="left">
 🎓 Software Analysis and Development Technologist
   
-📫 Contact: **juandiegopinillamontoya@gmail.com**
+📫 Contact: **pinillamontoyajuandiego@gmail.com**
 <!--Intro end-->
   </p>
 <br>
