@@ -23,7 +23,7 @@
 <h2 >My Skills👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,cpp,java,php,py,css,html,mysql,git,github,eclipse,vscode,ai,linkedin=12" />
+    <img src="https://skillicons.dev/icons?i=ps,cpp,java,php,py,anaconda,js,css,html,mysql,bootstrap,git,github,eclipse,pycharm,vscode,ai,figma,or,linkedin=12" />
   </a>
 </p>
 <br>
